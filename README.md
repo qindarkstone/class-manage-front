@@ -1,5 +1,7 @@
 # class-manage-front
 vue前端
+基于VUE3和vuecli
+
 "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
     "axios": "^1.4.0",
